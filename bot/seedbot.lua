@@ -221,23 +221,26 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {100096055,191801814,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-Admins
-@Mrhalix [Founder][Developer][Help&Support]
-@alirezaasadi82 [Sponser][Help&Support]
-@solid021 [Help&Support]
+    about_text = [[TeleBumper v3 
+    
+ http://s7.picofile.com/file/8234722668/Bumper  
+    
+    
+Sudo:  
+@kiarash_gh1 [Manager]  
+    
+    
+Id Bot  
+@TeleBumper  
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-Iman_daneshi
-BOY_CrazY
+
+Our channels
+@TeleBumperch [English]
+
+
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -422,8 +425,8 @@ tag users && send your message
 !about us
 send about bot creators
 〰〰〰〰〰〰
-persiangulf
-send you perisangulf logo as sticker
+!Bumper
+send you Bumper logo as sticker
 〰〰〰〰〰〰
 !all
 see all about group
